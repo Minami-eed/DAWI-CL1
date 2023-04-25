@@ -1,4 +1,4 @@
-# CASO DE LABORATORIO 1 
+# CASO LABORATORIO 1 
 **Consideraciones generales:**
 * **Se considerará el orden, la claridad de las respuestas y las buenas prácticas**.
 
